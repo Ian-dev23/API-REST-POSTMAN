@@ -1,0 +1,17 @@
+{
+    "name": "ianed/jwt_api",
+    "require": {
+        "firebase/php-jwt": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ianed\\JwtApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IanTorres",
+            "email": "ian.torres@utp.ac.pa"
+        }
+    ]
+}
